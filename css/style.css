@@ -1,0 +1,10 @@
+span{
+  
+    color: orangered;
+    font-weight: bold;
+    margin: 5px 0;
+    height: 25px;
+    display: block;
+    width: 200px;
+    padding-left: 10px;
+}
